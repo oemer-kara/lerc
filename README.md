@@ -55,6 +55,29 @@ RUBY,Ring,250,1,Uncommon,10% (Uncommon)
 ```
 Current database can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTCibOIdTYtqq6vH10Oerk50_XpixR_rjtf7Ovu59MBib4vgsj24k9nRIjN4Lg21HUJstYk2UfqLWm/pubhtml)
 
+## Creating an Executable (LERC.exe)
+
+### Building the Executable with PyInstaller
+
+1. **Install PyInstaller**:
+   ```bash
+   pip install pyinstaller
+   ```
+
+2. **Build the executable**:
+   ```bash
+   pyinstaller --onefile --add-data "items.csv;." --icon=lerc.ico --name lerc lerc.py
+   ```
+
+3. **Find your executable**:
+   - Look in the `dist` folder for `lerc.exe`
+   - You can distribute this single file to users
+   
+### Adding an Icon (Optional)
+
+- Create or find an .ico file for your application
+- Include it in the PyInstaller command as shown above with `--icon=lerc.ico`
+
 ## Inspiration
 
 https://github.com/0xdreadnaught/le-search
