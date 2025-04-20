@@ -1,0 +1,415 @@
+Name,Type,Class,Level,Level for,Rarity
+Aaron's Will,Body Armor,Acolyte,75,60,75% (Very rare)
+Abacus Rod,Wand,–,50,50,0% (Common)
+Aberrant Call,Two-Handed Staff,–,38,38,0% (Common)
+Aberroth's Command,Sceptre,–,65,65,–
+Acidfletch,Bow,Rogue,60,60,0% (Common)
+Advent of the Erased,Boots,–,16,–,0% (Common)
+Aergon's Refuge,Two-Handed Staff,–,70,70,75% (Very rare)
+Alchemist's Ladle,Wand,–,1,0,50% (Rare)
+Alluvion,Two-Handed Sword,–,72,60,–
+Ambitions of an Erased Acolyte,Relic,Acolyte,30,–,0% (Common)
+Anchor of Oblivion,Relic,–,80,80,–
+Apathy's Maw,Two-Handed Axe,–,65,65,–
+Apex of Thought,Helmet,Mage,59,59,40% (Uncommon)
+Apogee of Frozen Light,One-Handed Sword,–,65,65,0% (Common)
+Apostate's Sanctuary,Amulet,–,64,64,64% (Rare)
+Arboreal Circuit,Ring,–,1,70,0% (Common)
+Arek's Bones,One-Handed Mace,–,63,63,0% (Common)
+Arrowguard,Quiver,–,7,60,0% (Common)
+Artor's Legacy,Helmet,Primalist,44,70,0% (Common)
+Ashes of Mortality,Ring,–,62,62,–
+Ashes of Orchirian,Relic,–,45,45,–
+Atrophy,Gloves,–,64,64,–
+Aurelis,One-Handed Sword,–,50,50,0% (Common)
+Aurora's Time Glass,Amulet,–,72,100,80% (Very rare)
+Avarice,Gloves,–,6,–,–
+Azurral's Fury,Belt,–,57,40,0% (Common)
+Bane of Winter,Two-Handed Spear,–,82,82,–
+Bastion of Honour,Shield,–,50,75,90% (Very rare)
+Battlemage's Endeavour,Two-Handed Sword,–,46,20,0% (Common)
+Beast King,One-Handed Axe,–,46,70,0% (Common)
+Bhuldar's Wrath,Two-Handed Mace,–,76,80,–
+Black Blade of Chaos,Two-Handed Sword,–,72,72,–
+Blade of the Forgotten Knight,One-Handed Sword,–,50,–,70% (Rare)
+Bleeding Heart,Amulet,–,4,40,0% (Common)
+Blight of Lachesis,Two-Handed Staff,–,70,–,–
+Blood of the Exile,Boots,–,48,70,50% (Rare)
+Blood Roost,Gloves,–,59,59,60% (Rare)
+Bloodgeon,One-Handed Mace,–,62,62,50% (Rare)
+Bloodkeeper's Nest,Relic,–,70,60,60% (Rare)
+Bo's Anarchy,Two-Handed Staff,–,12,48,0% (Common)
+Boardman's Fallacy,Body Armor,Primalist,63,–,70% (Rare)
+Boardman's Legacy,Helmet,Primalist,63,–,70% (Rare)
+Boardman's Plank,Sceptre,–,63,–,70% (Rare)
+Bone Harvester,Two-Handed Axe,–,21,21,0% (Common)
+Boneclamor Barbute,Helmet,–,65,65,0% (Common)
+Boulderfists,Gloves,–,25,25,0% (Common)
+Box of Hydrae,Relic,Mage,36,36,0% (Common)
+Branch of Hallows,Two-Handed Staff,–,74,74,50% (Rare)
+Brewmaster's Buckle,Belt,–,52,52,–
+Bulwark of the Last Abyss,Shield,–,80,80,–
+Burning Avarice,Gloves,–,46,46,–
+Calamity,Helmet,–,7,40,0% (Common)
+Call of the Tundra,Helmet,–,74,60,–
+Carcinization of Momentum,Ring,–,23,50,0% (Common)
+Celestial Doom,Two-Handed Staff,–,70,70,–
+Chains of Uleros,Belt,–,14,14,0% (Common)
+Chimaera's Essence,Amulet,–,22,70,0% (Common)
+Chronicle of the Damned,Off-Hand Catalyst,–,8,8,0% (Common)
+Chronostasis,One-Handed Sword,–,75,75,0% (Common)
+Cinder Song,Wand,–,40,40,25% (Uncommon)
+Cleaver Solution,One-Handed Axe,–,27,50,0% (Common)
+Close Call,Shield,–,3,3,0% (Common)
+Clotho's Needle,Two-Handed Sword,–,68,–,–
+Cocooned Amulet,Amulet,–,1,–,0% (Common)
+Cocooned Belt,Belt,–,1,–,0% (Common)
+Cocooned Boots,Boots,–,1,–,0% (Common)
+Cocooned Bow,Bow,Rogue,1,–,0% (Common)
+Cocooned Catalyst,Off-Hand Catalyst,–,1,–,0% (Common)
+Cocooned Cleaver,One-Handed Axe,–,1,–,0% (Common)
+Cocooned Club,One-Handed Mace,–,1,–,0% (Common)
+Cocooned Cuirass,Body Armor,–,1,–,0% (Common)
+Cocooned Dagger,Dagger,–,1,–,0% (Common)
+Cocooned Gloves,Gloves,–,1,–,0% (Common)
+Cocooned Great Axe,Two-Handed Axe,–,1,–,0% (Common)
+Cocooned Great Mace,Two-Handed Mace,–,1,–,0% (Common)
+Cocooned Great Sword,Two-Handed Sword,–,1,–,0% (Common)
+Cocooned Helmet,Helmet,–,1,–,0% (Common)
+Cocooned Quiver,Quiver,–,1,–,0% (Common)
+Cocooned Relic,Relic,–,1,–,0% (Common)
+Cocooned Ring,Ring,–,1,–,0% (Common)
+Cocooned Sceptre,Sceptre,–,1,–,0% (Common)
+Cocooned Shield,Shield,–,1,–,0% (Common)
+Cocooned Short Sword,One-Handed Sword,–,1,–,0% (Common)
+Cocooned Spear,Two-Handed Spear,–,1,–,0% (Common)
+Cocooned Staff,Two-Handed Staff,–,1,–,0% (Common)
+Cocooned Wand,Wand,–,1,–,0% (Common)
+Code of an Erased Sentinel,Relic,Sentinel,30,–,0% (Common)
+Communion of the Erased,Belt,–,19,–,70% (Rare)
+Coral Aegis,Shield,–,70,40,–
+Core of the Mountain,Body Armor,–,80,80,–
+Corsair's Blood Cowl,Helmet,Rogue,57,–,0% (Common)
+Corsair's Boarding Shield,Shield,–,35,–,0% (Common)
+Countenance of Majasa,Shield,–,72,40,–
+Cradle of the Erased,Shield,–,18,–,0% (Common)
+Crest of Unity,Helmet,Mage,60,60,30% (Uncommon)
+Cruelty,Relic,Acolyte,31,31,0% (Common)
+Crystalwind,Quiver,–,77,77,0% (Common)
+Culnivar's Claim,Sceptre,–,50,50,0% (Common)
+Curse of Perseverance,Two-Handed Staff,–,20,40,0% (Common)
+Cycle of Putrescence,Ring,–,66,66,0% (Common)
+Dark Shroud of Cinders,Body Armor,–,66,66,–
+Darkstride,Boots,–,19,70,0% (Common)
+Death Rattle,Amulet,–,36,70,0% (Common)
+Death's Embrace,Two-Handed Axe,–,75,75,85% (Very rare)
+Decayed Skull,Helmet,–,24,24,0% (Common)
+Dedication of an Erased Primalist,Relic,Primalist,30,–,0% (Common)
+Defiance of the Forgotten Knight,Shield,–,30,–,0% (Common)
+Devotion,Amulet,–,71,71,0% (Common)
+Diothaen's Bloody Nib,Relic,Mage,58,75,50% (Rare)
+Dominance of the Tundra,Helmet,–,60,70,–
+Doublet of Onos Tull,Body Armor,–,5,50,0% (Common)
+Downfall of the Righteous,Relic,Acolyte,70,70,20% (Common)
+Draalsting,Two-Handed Spear,–,29,29,0% (Common)
+Dragonflame Edict,Two-Handed Staff,–,81,50,–
+Dragonsong,Bow,Rogue,36,36,0% (Common)
+Dragorath's Claw,Dagger,–,37,37,0% (Common)
+Dreamthorn,Two-Handed Sword,–,15,45,0% (Common)
+Drelkor's Compass,Bow,Rogue,64,64,0% (Common)
+Drought's Release,Dagger,–,27,10,0% (Common)
+Egg of the Forgotten,Relic,–,1,–,–
+Elecoe's Abandon,Body Armor,Rogue,40,40,0% (Common)
+Elecoe's Innovation,Belt,–,40,40,0% (Common)
+Essence Weaver,Two-Handed Spear,–,68,–,0% (Common)
+Eternal Eclipse,Two-Handed Sword,–,72,90,–
+Eterra's Path,Boots,–,30,70,0% (Common)
+Eulogy of Blood,One-Handed Axe,–,83,70,–
+Event Horizon,Two-Handed Mace,–,80,100,–
+Exsanguinous,Body Armor,–,23,35,50% (Rare)
+Eye of Orexia,Relic,Mage,36,36,0% (Common)
+Eye of Reen,One-Handed Sword,–,70,70,70% (Rare)
+Eye of Storms,Amulet,–,85,85,–
+Face of the Mountain,Shield,–,45,45,–
+Faith of the Frozen,Shield,–,84,70,–
+Falcon Fists,Gloves,–,27,27,0% (Common)
+Ferebor's Chisel,Dagger,–,71,–,0% (Common)
+Ferebor's Persistence,Ring,–,72,–,40% (Uncommon)
+Fiery Dragon Shoes,Boots,–,67,70,70% (Rare)
+Fighting Chance,Gloves,–,15,0,0% (Common)
+Fingers of the Phantom Mire,Gloves,–,6,6,0% (Common)
+Firestarter's Torch,Sceptre,–,1,0,0% (Common)
+Flames of Midnight,Ring,–,52,52,–
+Flayer's Pride,Shield,–,65,65,–
+Flight of Quetzeri,Boots,–,13,55,0% (Common)
+Flight of the First,Bow,Rogue,58,58,50% (Rare)
+Font of the Erased,Ring,–,15,–,0% (Common)
+Foot of the Mountain,Boots,–,48,48,–
+Fractured Crown,Helmet,Mage,56,56,–
+Fragment of the Enigma,Off-Hand Catalyst,–,46,30,0% (Common)
+Fragments of the Shattered Lance,Relic,–,65,–,–
+Frey's Retreat,Off-Hand Catalyst,–,62,62,0% (Common)
+Frostbite Shackles,Gloves,–,74,74,–
+Frozen Eyes of Formosus,Amulet,–,70,40,–
+Frozen Ire,Sceptre,–,33,60,0% (Common)
+Fulgurite Shard,Dagger,–,71,60,0% (Common)
+Fundamental Criterion,Body Armor,Mage,54,54,0% (Common)
+Gambit of an Erased Rogue,Relic,Rogue,30,–,0% (Common)
+Gambler's Fallacy,Amulet,–,1,–,0% (Common)
+Gaspar's Acuity,Body Armor,–,72,–,–
+Gaspar's Insight,Helmet,–,80,–,–
+Gaspar's Will,Sceptre,–,75,–,–
+Gathering Fury,Bow,Rogue,50,20,0% (Common)
+Gladiator's Oath,One-Handed Sword,–,31,31,0% (Common)
+Gordian Prism,Off-Hand Catalyst,–,28,28,0% (Common)
+Grasp of the Blood Mage,Gloves,–,71,71,0% (Common)
+Grim Constitution,Shield,–,35,35,0% (Common)
+Grimoire of Necrotic Elixirs,Relic,–,1,0,0% (Common)
+Hakar's Phoenix,One-Handed Axe,–,63,63,70% (Rare)
+Halvar's Pledge,Two-Handed Staff,–,46,–,20% (Common)
+Halvar's Stand,Boots,–,45,–,0% (Common)
+Hammer of Lorent,Two-Handed Mace,–,1,0,0% (Common)
+Hand of Judgement,Gloves,–,24,16,0% (Common)
+Harbinger of Stars,Belt,–,36,36,0% (Common)
+Harbinger's Needle,Small Idol [1×1],–,1,–,–
+Harthenon's Vow,Two-Handed Axe,–,1,0,0% (Common)
+Hazelroot,Sceptre,–,21,21,0% (Common)
+Heirloom of the Last Nomad,Ring,–,63,30,70% (Rare)
+Hell Reach,Bow,Rogue,1,0,0% (Common)
+Herald of the Scurry,Helmet,Primalist,73,90,70% (Rare)
+Herkir's Vessel,Relic,–,76,76,–
+Hive Mind,Helmet,Rogue,58,58,60% (Rare)
+Hollow Finger,Ring,–,31,31,20% (Common)
+Horns of Uhkeiros,Shield,–,84,100,–
+Howl of the West Wind,Helmet,Primalist,24,24,0% (Common)
+Humming Bee,One-Handed Sword,–,6,70,0% (Common)
+Ignivar's Head,Off-Hand Catalyst,–,50,50,0% (Common)
+Immolator's Oblation,Belt,–,46,46,–
+Immortal Vise,Gloves,–,86,85,–
+Inheritance of the Erased,Amulet,–,48,–,–
+Isadora's Gravechill,Gloves,–,31,–,0% (Common)
+Isadora's Revenge,Helmet,–,39,–,0% (Common)
+Isadora's Tomb Binding,Belt,–,19,–,0% (Common)
+Jasper's Searing Pride,Two-Handed Staff,–,74,60,0% (Common)
+Jelkhor's Blast Knife,Dagger,–,36,25,0% (Common)
+Julra's Obsession,Gloves,–,75,75,–
+Julra's Stardial,Ring,–,40,70,–
+Jungle Queen's Chaps of Holding,Belt,–,9,9,90% (Very rare)
+Keeper's Gloves,Gloves,–,1,0,0% (Common)
+Kelthan Blasting Agent,Relic,Rogue,38,10,0% (Common)
+Kermode's Cage,Body Armor,Primalist,54,54,20% (Common)
+Knowledge of an Erased Mage,Relic,Mage,30,–,0% (Common)
+Lament of the Lost Refuge,Two-Handed Spear,–,60,60,0% (Common)
+Last Gift of the Mountain,Relic,–,42,–,0% (Common)
+Last Steps of the Living,Boots,–,63,70,–
+Legacy of the Quiet Forest,Belt,–,50,50,0% (Common)
+Lessons of the Metropolis,Boots,–,1,50,0% (Common)
+Lethal Concentration,Two-Handed Spear,–,58,58,0% (Common)
+Leviathan Carver,Two-Handed Sword,–,80,90,70% (Rare)
+Li'raka's Claws,Gloves,–,45,45,0% (Common)
+Liath's Machinations,Gloves,–,26,26,0% (Common)
+Liath's Signet,Ring,–,45,30,50% (Rare)
+Lich's Envy,Gloves,–,64,–,–
+Lich's Scorn,Off-Hand Catalyst,–,63,–,–
+Life's Journey,Shield,–,36,50,50% (Rare)
+Locket of the Forgotten Knight,Amulet,–,24,–,70% (Rare)
+Logi's Hunger,Amulet,–,82,82,–
+Longshot,Bow,Rogue,23,50,0% (Common)
+Mad Alchemist's Ladle,Wand,–,17,17,–
+Maehlin's Hubris,Gloves,–,47,47,0% (Common)
+Mana Guide,Amulet,–,30,40,30% (Uncommon)
+Mantle of the Pale Ox,Body Armor,–,64,64,0% (Common)
+Marina's Lost Soul,Wand,–,78,78,30% (Uncommon)
+Melvern's Writ,Relic,–,48,20,60% (Rare)
+Merophage,Two-Handed Sword,–,51,–,–
+Moenia Mentis,Shield,–,45,60,0% (Common)
+Monument of Protection,One-Handed Axe,–,52,52,0% (Common)
+Morditas' Reach,Two-Handed Spear,–,70,70,80% (Very rare)
+Mortality's Grasp,Gloves,–,62,30,70% (Rare)
+Mourningfrost,Boots,–,8,70,0% (Common)
+Murama's Hilt,Relic,–,46,20,0% (Common)
+Naal's Tooth,One-Handed Sword,–,64,64,80% (Very rare)
+Nest of Nightmares,One-Handed Mace,–,35,–,0% (Common)
+Nightbringer,Quiver,–,68,55,–
+Nihilis,Amulet,–,80,80,–
+Null Portent,Body Armor,–,81,81,–
+Oceareon,Ring,–,74,74,85% (Very rare)
+Omen of Thunder,Belt,–,48,48,–
+Omnis,Amulet,–,76,100,–
+Omnividence,Two-Handed Staff,–,70,70,90% (Very rare)
+Orb Weaver's Fang,Two-Handed Sword,–,40,–,0% (Common)
+Orchirian's Petals,Relic,–,35,–,–
+Orian's Descent,Belt,–,40,40,–
+Orian's Eye,Amulet,–,76,76,97% (Extremely rare)
+Orian's Sun Seal,Ring,–,27,50,0% (Common)
+Pact Severance,One-Handed Axe,–,71,60,50% (Rare)
+Palarus's Sacred Light,One-Handed Sword,–,6,6,0% (Common)
+Paranoia,Helmet,Sentinel,85,60,90% (Very rare)
+Peak of the Mountain,Helmet,–,12,0,–
+Pearls of the Swine,Amulet,–,58,58,40% (Uncommon)
+Pearls of the Swine,Amulet,–,58,58,40% (Uncommon)
+Pearls of the Swine,Amulet,–,58,58,40% (Uncommon)
+Pebbles' Bitemarked Sash,Belt,–,12,–,0% (Common)
+Pebbles' Collar,Relic,–,12,–,0% (Common)
+Pebbles' Femur,Wand,–,30,–,0% (Common)
+Penumbra,Ring,–,45,45,–
+Phalanx,Two-Handed Spear,–,40,40,0% (Common)
+Phantom Grip,Ring,–,14,50,0% (Common)
+Phase Point,Quiver,–,87,87,–
+Pillager's Gold,Relic,Rogue,35,15,0% (Common)
+Plague Bearer's Staff,Two-Handed Staff,–,40,60,50% (Rare)
+Plague Dragon's Tongue,Two-Handed Spear,–,57,57,0% (Common)
+Prism Wraps,Body Armor,–,5,90,0% (Common)
+Prismatic Gaze,Helmet,–,60,80,60% (Rare)
+Pyre of Affliction,Two-Handed Axe,–,76,76,–
+Quicksilver Coil,Ring,–,12,30,0% (Common)
+Rahyeh's Light,Shield,–,76,76,80% (Very rare)
+Rainbow Edge,One-Handed Sword,–,30,10,0% (Common)
+Raindance,Boots,–,61,70,65% (Rare)
+Ravager's Dart,Helmet,–,39,39,20% (Common)
+Ravenous Void,Gloves,–,91,105,98% (Extremely rare)
+Ravens' Rise,Gloves,–,62,62,80% (Very rare)
+Razorfall,Boots,–,76,76,80% (Very rare)
+Reach of the Grave,Wand,–,5,70,0% (Common)
+Red Ring of Atlaria,Ring,–,80,100,98% (Extremely rare)
+Reign of Winter,Bow,Rogue,70,70,–
+Renegade's Will,One-Handed Mace,–,37,10,0% (Common)
+Reowyn's Fortress,Two-Handed Staff,–,24,24,0% (Common)
+Ribbons of Blood,Ring,–,53,40,–
+Ring of the Third Eye,Ring,–,14,14,0% (Common)
+Riverbend Grasp,Gloves,–,15,40,0% (Common)
+Roots of Vithrasil,Boots,–,45,80,40% (Uncommon)
+Rotmind,Off-Hand Catalyst,–,31,31,0% (Common)
+Ruby Fang Aegis,Shield,–,55,–,0% (Common)
+Ruby Fang Cleaver,One-Handed Axe,–,55,–,0% (Common)
+Rule of the Simoon,Gloves,–,72,72,0% (Common)
+Sacrificial Embrace,Gloves,–,81,70,–
+Salt the Wound,Gloves,–,62,76,85% (Very rare)
+Sanguine Hoard,Quiver,–,44,20,0% (Common)
+Scales of Eterra,Off-Hand Catalyst,–,62,90,70% (Rare)
+Scales of Eterra,Off-Hand Catalyst,–,62,90,70% (Rare)
+Scales of Eterra,Off-Hand Catalyst,–,62,90,70% (Rare)
+Scales of Lemniscate,Two-Handed Axe,–,82,82,50% (Rare)
+Scissor of Atropos,One-Handed Sword,–,60,–,–
+Seed of Ekkidrasil,Helmet,–,84,84,–
+Serpent's Milk,Amulet,–,64,64,0% (Common)
+Shadow Beacon,Two-Handed Mace,–,51,35,0% (Common)
+Shadow String,Bow,Rogue,11,11,60% (Rare)
+Shard of the Shattered Lance,One-Handed Sword,–,68,–,–
+Shattered Chains,Belt,–,70,70,–
+Shattered Worlds,Relic,–,64,85,–
+Shroud of Obscurity,Body Armor,Acolyte,13,6,0% (Common)
+Sierpin's Fractal Tree,Two-Handed Spear,–,48,48,–
+Sigeon's Reprisal,Shield,–,35,35,0% (Common)
+Silvafrond,Ring,–,44,50,70% (Rare)
+Sinathia's Dying Breath,One-Handed Mace,–,60,–,0% (Common)
+Sinathia's Resurrection,Shield,–,60,–,0% (Common)
+Singularity,Small Idol [1×1],–,42,–,30% (Uncommon)
+Siphon of Anguish,Ring,–,55,40,–
+Smoke Weaver,Dagger,–,52,70,50% (Rare)
+Snowblind,Helmet,–,10,10,0% (Common)
+Snowdrift,Boots,–,23,70,0% (Common)
+Somnia,Helmet,–,65,50,–
+Soul Bastion,Shield,–,15,15,0% (Common)
+Soul Gambler's Fallacy,Amulet,–,41,30,–
+Soul of the Mountain,Relic,Primalist,34,34,–
+Soulfire,Relic,–,34,20,0% (Common)
+Spine of Malatros,Two-Handed Sword,–,61,61,0% (Common)
+Static Shell,Body Armor,–,70,70,40% (Uncommon)
+Stealth,Boots,–,79,79,60% (Rare)
+Storm Breaker,Two-Handed Mace,–,35,35,0% (Common)
+Stormcarved Testament,Relic,–,78,78,–
+Stormhide Paws,Gloves,–,6,20,0% (Common)
+Stormtide,Boots,–,24,70,0% (Common)
+Strands of Souls,Belt,–,82,82,–
+Strong Mind,Amulet,–,18,18,0% (Common)
+Stygian Coal,Off-Hand Catalyst,–,36,36,0% (Common)
+Stymied Fate,Boots,–,60,100,–
+Suloron's Step,Boots,–,57,70,60% (Rare)
+Sunforged Cuirass,Body Armor,Sentinel,60,–,20% (Common)
+Sunforged Greathelm,Helmet,Sentinel,72,–,50% (Rare)
+Sunforged Hammer,Two-Handed Mace,–,68,–,0% (Common)
+Sunwreath,Ring,–,21,21,0% (Common)
+Swaddling of the Erased,Gloves,–,15,–,0% (Common)
+Sword Catcher,Two-Handed Axe,–,71,71,60% (Rare)
+Symbol of Demise,Off-Hand Catalyst,–,80,80,–
+Talons of Valor,Bow,Rogue,30,30,20% (Common)
+Taste of Blood,One-Handed Axe,–,13,40,0% (Common)
+Tears of the Forest,Amulet,–,28,28,0% (Common)
+Telf'un's Mirage,Boots,–,53,70,0% (Common)
+Tempest Maw,One-Handed Axe,–,51,30,0% (Common)
+The Ashen Crown,Helmet,Mage,33,60,0% (Common)
+The Claw,Amulet,–,4,50,0% (Common)
+The Confluence of Fate,Amulet,–,81,50,–
+The Cuckoo,Off-Hand Catalyst,–,86,–,–
+The Fang,Amulet,–,58,58,0% (Common)
+The Ghost Maker,Dagger,–,61,85,0% (Common)
+The Inevitable,Boots,–,83,83,–
+The Invoker's Frozen Heart,Amulet,–,24,–,0% (Common)
+The Invoker's Scorching Grasp,Ring,–,35,–,0% (Common)
+The Invoker's Static Touch,Ring,–,29,–,0% (Common)
+The Judicator,Two-Handed Spear,–,76,60,60% (Rare)
+The Kestrel,Body Armor,–,1,0,0% (Common)
+The Last Bear's Fury,Gloves,–,31,–,0% (Common)
+The Last Bear's Lament,Helmet,–,20,–,0% (Common)
+The Last Bear's Scorn,Body Armor,–,27,–,0% (Common)
+The Last Laugh,Two-Handed Sword,–,47,47,0% (Common)
+The Scavenger,Belt,–,9,9,0% (Common)
+The Shattered Cycle,Sceptre,–,72,72,72% (Rare)
+The Slab,Shield,–,1,20,0% (Common)
+Thorn Slinger,Belt,–,12,30,0% (Common)
+Thornshell,Shield,–,52,20,0% (Common)
+Throne of Ambition,Adorned Idol [2×2],–,1,–,–
+Titan Heart,Body Armor,–,41,60,0% (Common)
+Tolmat's Incorrect History of Eterra,Off-Hand Catalyst,–,9,9,0% (Common)
+Tome of Elements,Relic,–,1,20,0% (Common)
+Tongue of the Aberrant Seer,Ring,–,6,6,0% (Common)
+Torch Of The Pontifex,Two-Handed Mace,–,20,50,0% (Common)
+Torkrefin's Hunger,Two-Handed Sword,–,65,65,50% (Rare)
+Traitor's Tongue,Dagger,–,27,27,60% (Rare)
+Transcriber's Graver,One-Handed Sword,–,48,48,0% (Common)
+Transient Rest,Boots,–,52,70,30% (Uncommon)
+Triboelectra,Wand,–,45,50,30% (Uncommon)
+Trident of the Last Abyss,Two-Handed Spear,–,79,79,–
+Trinity of Flames,Adorned Idol [2×2],–,1,–,–
+Troaka's Teeth,Quiver,–,44,15,0% (Common)
+Tu'rani's Bident,Two-Handed Spear,–,48,48,0% (Common)
+Twisted Heart of Uhkeiros,Relic,–,80,80,–
+Ucenui's Sphere,Relic,–,61,20,0% (Common)
+Uethrin's Stand,Bow,Rogue,36,10,0% (Common)
+Undisputed,One-Handed Axe,–,80,80,50% (Rare)
+Unearthed Memories,Relic,Acolyte,40,30,–
+Unstable Core,Body Armor,Mage,77,80,50% (Rare)
+Unvar's Exile,Huge Idol [1×4],Mage,33,–,0% (Common)
+Unvar's Hegemony,Adorned Idol [2×2],Mage,32,–,0% (Common)
+Unvar's Rise,Large Idol [1×3],Mage,31,–,0% (Common)
+Urzil's Pride,Body Armor,–,15,20,0% (Common)
+Usurper's Mandate,Two-Handed Axe,–,66,40,0% (Common)
+Vaion's Chariot,Boots,–,50,90,–
+Valdyr's Chalice,Relic,–,64,64,60% (Rare)
+Valeroot,Body Armor,–,35,50,0% (Common)
+Vessel of Strife,Relic,–,86,70,–
+Vial of Volatile Ice,Off-Hand Catalyst,–,1,0,0% (Common)
+Vilatria's Downfall,Two-Handed Staff,–,46,–,0% (Common)
+Vilatria's Storm Crown,Helmet,Mage,14,–,75% (Very rare)
+Vipertail,Belt,–,6,30,0% (Common)
+Volcanus,Two-Handed Sword,–,58,58,0% (Common)
+Vortex Pennant,Relic,Sentinel,12,12,0% (Common)
+Wall of Nothing,Body Armor,–,85,85,–
+Ward Trail,Belt,–,45,45,0% (Common)
+Weaver's Gift,One-Handed Sword,–,50,–,0% (Common)
+Wheel of Torment,Two-Handed Staff,–,75,75,50% (Rare)
+Wing Guards,Gloves,–,45,75,0% (Common)
+Wings of Argentus,Body Armor,–,82,90,–
+World Splitter,Two-Handed Axe,–,85,85,–
+Woven Flesh,Body Armor,–,51,51,–
+Wraithlord's Harbor,Helmet,Acolyte,65,50,35% (Uncommon)
+Wrongwarp,Wand,–,83,48,80% (Very rare)
+Xithara's Conundrum,Amulet,–,61,10,30% (Uncommon)
+Yrun's Penance,One-Handed Sword,–,4,30,0% (Common)
+Yrun's Wisdom,Body Armor,–,27,27,0% (Common)
+Yulia's Path,Boots,–,79,79,–
+Zerrick's Ambition,Boots,–,52,–,0% (Common)
+Zerrick's Greed,Gloves,–,57,–,50% (Rare)
+Zerrick's Guile,Belt,–,49,–,0% (Common)
+Zeurial's Hunt,Quiver,–,52,35,20% (Common)
